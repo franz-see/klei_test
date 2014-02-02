@@ -1,0 +1,4 @@
+{
+  "name": "kleiTest",
+  "parts": ["express", "mongo", "angular", "stylus"]
+}
